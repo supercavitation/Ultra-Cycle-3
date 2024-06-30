@@ -1398,6 +1398,12 @@
     "weight": 16
   },
   {
+    "speciesId": "swampert_mega",
+    "fastMove": "MUD_SHOT",
+    "chargedMoves": ["HYDRO_CANNON","EARTHQUAKE"],
+    "weight": 1
+  },
+  {
     "speciesId": "swampert_shadow",
     "fastMove": "MUD_SHOT",
     "chargedMoves": ["HYDRO_CANNON","EARTHQUAKE"],
