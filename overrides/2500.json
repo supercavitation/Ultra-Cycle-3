@@ -1518,7 +1518,7 @@
   {
     "speciesId": "typhlosion",
     "fastMove": "INCINERATE",
-    "chargedMoves": ["BLAST_BURN","SOLAR_BEAM"],
+    "chargedMoves": ["BLAST_BURN","THUNDER_PUNCH"],
     "weight": 1
   },
   {
@@ -1530,7 +1530,7 @@
   {
     "speciesId": "typhlosion_shadow",
     "fastMove": "INCINERATE",
-    "chargedMoves": ["BLAST_BURN","SOLAR_BEAM"],
+    "chargedMoves": ["BLAST_BURN","THUNDER_PUNCH"],
     "weight": 1
   },
   {
