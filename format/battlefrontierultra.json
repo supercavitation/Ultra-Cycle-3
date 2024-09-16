@@ -2,8 +2,9 @@
         "title": "Battle Frontier (Ultra)",
         "cup": "battlefrontierultra",
         "cp": 2500,
-        "meta": "battlefrontierultra",
+        "meta": "ultra",
         "showCup": true,
         "showFormat": true,
-        "showMeta": true
-    },
+        "showMeta": true,
+        "hideRankings": true
+    }
