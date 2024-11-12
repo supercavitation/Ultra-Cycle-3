@@ -550,6 +550,18 @@
     "weight": 6
   },
   {
+    "speciesId": "golurk",
+    "fastMove": "MUD_SLAP",
+    "chargedMoves": ["SHADOW_PUNCH", "DYNAMIC_PUNCH"],
+    "weight": 1
+  },
+  {
+    "speciesId": "golurk_shadow",
+    "fastMove": "MUD_SLAP",
+    "chargedMoves": ["SHADOW_PUNCH", "DYNAMIC_PUNCH"],
+    "weight": 1
+  },
+  {
     "speciesId": "goodra",
     "fastMove": "DRAGON_BREATH",
     "chargedMoves": ["AQUA_TAIL","POWER_WHIP"],
